@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Rodrigo Ventura Teixeira
+- Matricula:909579
+- Proposta de projeto escolhida: responsibilidade com bootstrap
+- Breve descrição sobre seu projeto: uma pagina inicial do site do cruzeiro responsivel, para mobile e desktops
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
