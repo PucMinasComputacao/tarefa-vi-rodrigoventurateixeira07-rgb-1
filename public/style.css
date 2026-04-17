@@ -1,0 +1,57 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background: #0033a0;
+    padding: 30px;
+
+}
+.header img {
+  width: 80px;
+  height: auto;
+}
+/* Hero */
+.hero {
+    height: 30vh;
+    background: url("https://imgs.search.brave.com/5NMFvWtAUysDddphPUnfAsMNTcJx8wv_0sVncjwjBLQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMzI3/OTU1Mi5qcGc") center/cover no-repeat;
+    color: white;
+    padding: 40px 20px;
+}
+
+.hero h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Cards */
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Form */
+.formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Footer */
+.footer {
+    background: #0033a0;
+    padding: 15px;
+    margin-top: 20px;
+}
